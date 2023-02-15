@@ -1,0 +1,12 @@
+/Users/mariatimbur/Projects/Tema 1 - C# Advanced/PetShelterDemo.DAL/bin/Debug/net6.0/PetShelterDemo.DAL.deps.json
+/Users/mariatimbur/Projects/Tema 1 - C# Advanced/PetShelterDemo.DAL/bin/Debug/net6.0/PetShelterDemo.DAL.dll
+/Users/mariatimbur/Projects/Tema 1 - C# Advanced/PetShelterDemo.DAL/bin/Debug/net6.0/PetShelterDemo.DAL.pdb
+/Users/mariatimbur/Projects/Tema 1 - C# Advanced/PetShelterDemo.DAL/obj/Debug/net6.0/PetShelterDemo.DAL.csproj.AssemblyReference.cache
+/Users/mariatimbur/Projects/Tema 1 - C# Advanced/PetShelterDemo.DAL/obj/Debug/net6.0/PetShelterDemo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariatimbur/Projects/Tema 1 - C# Advanced/PetShelterDemo.DAL/obj/Debug/net6.0/PetShelterDemo.DAL.AssemblyInfoInputs.cache
+/Users/mariatimbur/Projects/Tema 1 - C# Advanced/PetShelterDemo.DAL/obj/Debug/net6.0/PetShelterDemo.DAL.AssemblyInfo.cs
+/Users/mariatimbur/Projects/Tema 1 - C# Advanced/PetShelterDemo.DAL/obj/Debug/net6.0/PetShelterDemo.DAL.csproj.CoreCompileInputs.cache
+/Users/mariatimbur/Projects/Tema 1 - C# Advanced/PetShelterDemo.DAL/obj/Debug/net6.0/PetShelterDemo.DAL.dll
+/Users/mariatimbur/Projects/Tema 1 - C# Advanced/PetShelterDemo.DAL/obj/Debug/net6.0/refint/PetShelterDemo.DAL.dll
+/Users/mariatimbur/Projects/Tema 1 - C# Advanced/PetShelterDemo.DAL/obj/Debug/net6.0/PetShelterDemo.DAL.pdb
+/Users/mariatimbur/Projects/Tema 1 - C# Advanced/PetShelterDemo.DAL/obj/Debug/net6.0/ref/PetShelterDemo.DAL.dll

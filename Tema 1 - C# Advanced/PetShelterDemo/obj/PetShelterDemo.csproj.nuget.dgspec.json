@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 1 - C# Advanced/PetShelterDemo/PetShelterDemo.csproj": {}
+  },
+  "projects": {
+    "/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 1 - C# Advanced/PetShelterDemo.DAL/PetShelterDemo.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 1 - C# Advanced/PetShelterDemo.DAL/PetShelterDemo.DAL.csproj",
+        "projectName": "PetShelterDemo.DAL",
+        "projectPath": "/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 1 - C# Advanced/PetShelterDemo.DAL/PetShelterDemo.DAL.csproj",
+        "packagesPath": "/Users/mariatimbur/.nuget/packages/",
+        "outputPath": "/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 1 - C# Advanced/PetShelterDemo.DAL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mariatimbur/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 1 - C# Advanced/PetShelterDemo.Domain/PetShelterDemo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 1 - C# Advanced/PetShelterDemo.Domain/PetShelterDemo.Domain.csproj",
+        "projectName": "PetShelterDemo.Domain",
+        "projectPath": "/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 1 - C# Advanced/PetShelterDemo.Domain/PetShelterDemo.Domain.csproj",
+        "packagesPath": "/Users/mariatimbur/.nuget/packages/",
+        "outputPath": "/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 1 - C# Advanced/PetShelterDemo.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mariatimbur/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 1 - C# Advanced/PetShelterDemo.DAL/PetShelterDemo.DAL.csproj": {
+                "projectPath": "/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 1 - C# Advanced/PetShelterDemo.DAL/PetShelterDemo.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 1 - C# Advanced/PetShelterDemo/PetShelterDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 1 - C# Advanced/PetShelterDemo/PetShelterDemo.csproj",
+        "projectName": "PetShelterDemo",
+        "projectPath": "/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 1 - C# Advanced/PetShelterDemo/PetShelterDemo.csproj",
+        "packagesPath": "/Users/mariatimbur/.nuget/packages/",
+        "outputPath": "/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 1 - C# Advanced/PetShelterDemo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mariatimbur/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 1 - C# Advanced/PetShelterDemo.Domain/PetShelterDemo.Domain.csproj": {
+                "projectPath": "/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 1 - C# Advanced/PetShelterDemo.Domain/PetShelterDemo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
