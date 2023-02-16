@@ -1,9 +1,29 @@
 ﻿<Properties StartupConfiguration="{C8DC1D61-5694-4D04-A657-C2D5D78102D5}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="PetShelterDemo/Program.cs">
+    <Files>
+      <File FileName="PetShelterDemo/Program.cs" Line="177" Column="1" />
+      <File FileName="PetShelterDemo.Domain/PetShelter.cs" Line="24" Column="1" />
+      <File FileName="PetShelterDemo.Domain/Fundraiser.cs" Line="9" Column="45" />
+      <File FileName="PetShelterDemo.Domain/Donations.cs" Line="8" Column="3" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="PetShelterDemo" expanded="True" selected="True" />
+          <Node name="PetShelterDemo" expanded="True">
+            <Node name="01 Presentation Layer" expanded="True">
+              <Node name="PetShelterDemo" expanded="True" />
+            </Node>
+            <Node name="02 Domain Layer" expanded="True">
+              <Node name="PetShelterDemo.Domain" expanded="True" />
+            </Node>
+            <Node name="03 Data Access Layer" expanded="True">
+              <Node name="PetShelterDemo.DAL" expanded="True">
+                <Node name="Dependencies" expanded="True">
+                  <Node name="FrameworkReferences" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
