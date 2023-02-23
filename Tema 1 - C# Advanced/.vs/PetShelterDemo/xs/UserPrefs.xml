@@ -1,11 +1,6 @@
 ﻿<Properties StartupConfiguration="{C8DC1D61-5694-4D04-A657-C2D5D78102D5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PetShelterDemo/Program.cs">
-    <Files>
-      <File FileName="PetShelterDemo/Program.cs" Line="177" Column="1" />
-      <File FileName="PetShelterDemo.Domain/PetShelter.cs" Line="24" Column="1" />
-      <File FileName="PetShelterDemo.Domain/Fundraiser.cs" Line="9" Column="45" />
-      <File FileName="PetShelterDemo.Domain/Donations.cs" Line="8" Column="3" />
-    </Files>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -28,11 +23,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.01_220Presentation_220Layer.PetShelterDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
