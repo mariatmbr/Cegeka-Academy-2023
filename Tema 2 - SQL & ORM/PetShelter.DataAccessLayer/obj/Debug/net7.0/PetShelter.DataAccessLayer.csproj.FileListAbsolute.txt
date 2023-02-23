@@ -1,0 +1,14 @@
+/Users/mariatimbur/Projects/PetShelterDB/PetShelter.DataAccessLayer/bin/Debug/net7.0/PetShelter.DataAccessLayer.deps.json
+/Users/mariatimbur/Projects/PetShelterDB/PetShelter.DataAccessLayer/bin/Debug/net7.0/PetShelter.DataAccessLayer.runtimeconfig.json
+/Users/mariatimbur/Projects/PetShelterDB/PetShelter.DataAccessLayer/bin/Debug/net7.0/PetShelter.DataAccessLayer.dll
+/Users/mariatimbur/Projects/PetShelterDB/PetShelter.DataAccessLayer/bin/Debug/net7.0/PetShelter.DataAccessLayer.pdb
+/Users/mariatimbur/Projects/PetShelterDB/PetShelter.DataAccessLayer/obj/Debug/net7.0/PetShelter.DataAccessLayer.csproj.AssemblyReference.cache
+/Users/mariatimbur/Projects/PetShelterDB/PetShelter.DataAccessLayer/obj/Debug/net7.0/PetShelter.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariatimbur/Projects/PetShelterDB/PetShelter.DataAccessLayer/obj/Debug/net7.0/PetShelter.DataAccessLayer.AssemblyInfoInputs.cache
+/Users/mariatimbur/Projects/PetShelterDB/PetShelter.DataAccessLayer/obj/Debug/net7.0/PetShelter.DataAccessLayer.AssemblyInfo.cs
+/Users/mariatimbur/Projects/PetShelterDB/PetShelter.DataAccessLayer/obj/Debug/net7.0/PetShelter.DataAccessLayer.csproj.CoreCompileInputs.cache
+/Users/mariatimbur/Projects/PetShelterDB/PetShelter.DataAccessLayer/obj/Debug/net7.0/PetShelter.DataAccessLayer.dll
+/Users/mariatimbur/Projects/PetShelterDB/PetShelter.DataAccessLayer/obj/Debug/net7.0/refint/PetShelter.DataAccessLayer.dll
+/Users/mariatimbur/Projects/PetShelterDB/PetShelter.DataAccessLayer/obj/Debug/net7.0/PetShelter.DataAccessLayer.pdb
+/Users/mariatimbur/Projects/PetShelterDB/PetShelter.DataAccessLayer/obj/Debug/net7.0/PetShelter.DataAccessLayer.genruntimeconfig.cache
+/Users/mariatimbur/Projects/PetShelterDB/PetShelter.DataAccessLayer/obj/Debug/net7.0/ref/PetShelter.DataAccessLayer.dll
