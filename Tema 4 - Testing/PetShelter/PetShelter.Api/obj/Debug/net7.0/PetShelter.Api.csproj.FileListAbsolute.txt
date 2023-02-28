@@ -1,0 +1,174 @@
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/appsettings.Development.json
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/appsettings.json
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/PetShelter.Api
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/PetShelter.Api.deps.json
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/PetShelter.Api.runtimeconfig.json
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/PetShelter.Api.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/PetShelter.Api.pdb
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Azure.Core.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Azure.Identity.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/FluentValidation.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Humanizer.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/System.CodeDom.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/PetShelter.BusinessLayer.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/PetShelter.DataAccessLayer.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/PetShelter.BusinessLayer.pdb
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/bin/Debug/net7.0/PetShelter.DataAccessLayer.pdb
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/obj/Debug/net7.0/PetShelter.Api.csproj.AssemblyReference.cache
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/obj/Debug/net7.0/PetShelter.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/obj/Debug/net7.0/PetShelter.Api.AssemblyInfoInputs.cache
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/obj/Debug/net7.0/PetShelter.Api.AssemblyInfo.cs
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/obj/Debug/net7.0/PetShelter.Api.csproj.CoreCompileInputs.cache
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/obj/Debug/net7.0/PetShelter.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/obj/Debug/net7.0/PetShelter.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/obj/Debug/net7.0/staticwebassets/msbuild.PetShelter.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/obj/Debug/net7.0/staticwebassets/msbuild.build.PetShelter.Api.props
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.PetShelter.Api.props
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.PetShelter.Api.props
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/obj/Debug/net7.0/staticwebassets.build.json
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/obj/Debug/net7.0/staticwebassets.development.json
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/obj/Debug/net7.0/scopedcss/bundle/PetShelter.Api.styles.css
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/obj/Debug/net7.0/PetShelter.Api.csproj.CopyComplete
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/obj/Debug/net7.0/PetShelter.Api.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/obj/Debug/net7.0/refint/PetShelter.Api.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/obj/Debug/net7.0/PetShelter.Api.pdb
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/obj/Debug/net7.0/PetShelter.Api.genruntimeconfig.cache
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.Api/obj/Debug/net7.0/ref/PetShelter.Api.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/appsettings.Development.json
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/appsettings.json
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/PetShelter.Api
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/PetShelter.Api.deps.json
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/PetShelter.Api.runtimeconfig.json
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/PetShelter.Api.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/PetShelter.Api.pdb
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Azure.Core.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Azure.Identity.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/FluentValidation.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Humanizer.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/System.CodeDom.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/PetShelter.BusinessLayer.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/PetShelter.DataAccessLayer.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/PetShelter.BusinessLayer.pdb
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/bin/Debug/net7.0/PetShelter.DataAccessLayer.pdb
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/obj/Debug/net7.0/PetShelter.Api.csproj.AssemblyReference.cache
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/obj/Debug/net7.0/PetShelter.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/obj/Debug/net7.0/PetShelter.Api.AssemblyInfoInputs.cache
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/obj/Debug/net7.0/PetShelter.Api.AssemblyInfo.cs
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/obj/Debug/net7.0/PetShelter.Api.csproj.CoreCompileInputs.cache
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/obj/Debug/net7.0/PetShelter.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/obj/Debug/net7.0/PetShelter.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/obj/Debug/net7.0/staticwebassets/msbuild.PetShelter.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/obj/Debug/net7.0/staticwebassets/msbuild.build.PetShelter.Api.props
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.PetShelter.Api.props
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.PetShelter.Api.props
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/obj/Debug/net7.0/staticwebassets.build.json
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/obj/Debug/net7.0/staticwebassets.development.json
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/obj/Debug/net7.0/scopedcss/bundle/PetShelter.Api.styles.css
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/obj/Debug/net7.0/PetShelter.Api.csproj.CopyComplete
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/obj/Debug/net7.0/PetShelter.Api.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/obj/Debug/net7.0/refint/PetShelter.Api.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/obj/Debug/net7.0/PetShelter.Api.pdb
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/obj/Debug/net7.0/PetShelter.Api.genruntimeconfig.cache
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.Api/obj/Debug/net7.0/ref/PetShelter.Api.dll

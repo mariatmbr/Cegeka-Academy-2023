@@ -1,0 +1,59 @@
+﻿<Properties StartupConfiguration="{ADA6D77A-9F9F-42A6-B24F-14CB78551F27}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="PetShelter.BusinessLayer.Tests/AddDonationTests.cs" Line="42" Column="1" />
+      <File FileName="PetShelter.BusinessLayer/DonationService.cs" />
+      <File FileName="PetShelter.BusinessLayer/Validators/PersonValidator.cs" />
+      <File FileName="PetShelter.BusinessLayer.Tests/RescuePetTests.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PetShelter" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="PetShelter.Api" expanded="True">
+                <Node name="Dependencies" expanded="True">
+                  <Node name="PackageDependencies" expanded="True" />
+                </Node>
+                <Node name="Controllers" expanded="True" />
+                <Node name="appsettings.json" expanded="True" />
+              </Node>
+              <Node name="PetShelter.BusinessLayer" expanded="True">
+                <Node name="Dependencies" expanded="True">
+                  <Node name="PackageDependencies" expanded="True" />
+                </Node>
+                <Node name="Constants" expanded="True" />
+                <Node name="Models" expanded="True" />
+                <Node name="Validators" expanded="True" />
+              </Node>
+              <Node name="PetShelter.DataAccessLayer" expanded="True">
+                <Node name="Dependencies" expanded="True">
+                  <Node name="PackageDependencies" expanded="True" />
+                </Node>
+                <Node name="Configuration" expanded="True" />
+                <Node name="Migrations" expanded="True" />
+                <Node name="Models" expanded="True" />
+                <Node name="Repository" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="tests" expanded="True">
+              <Node name="PetShelter.BusinessLayer.Tests" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="PetShelter" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.src.PetShelter.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

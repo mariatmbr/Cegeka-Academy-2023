@@ -1,0 +1,30 @@
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.BusinessLayer/bin/Debug/net7.0/PetShelter.BusinessLayer.deps.json
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.BusinessLayer/bin/Debug/net7.0/PetShelter.BusinessLayer.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.BusinessLayer/bin/Debug/net7.0/PetShelter.BusinessLayer.pdb
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.BusinessLayer/bin/Debug/net7.0/PetShelter.DataAccessLayer.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.BusinessLayer/bin/Debug/net7.0/PetShelter.DataAccessLayer.pdb
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.BusinessLayer/obj/Debug/net7.0/PetShelter.BusinessLayer.csproj.AssemblyReference.cache
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.BusinessLayer/obj/Debug/net7.0/PetShelter.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.BusinessLayer/obj/Debug/net7.0/PetShelter.BusinessLayer.AssemblyInfoInputs.cache
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.BusinessLayer/obj/Debug/net7.0/PetShelter.BusinessLayer.AssemblyInfo.cs
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.BusinessLayer/obj/Debug/net7.0/PetShelter.BusinessLayer.csproj.CoreCompileInputs.cache
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.BusinessLayer/obj/Debug/net7.0/PetShelter.BusinessLayer.csproj.CopyComplete
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.BusinessLayer/obj/Debug/net7.0/PetShelter.BusinessLayer.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.BusinessLayer/obj/Debug/net7.0/refint/PetShelter.BusinessLayer.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.BusinessLayer/obj/Debug/net7.0/PetShelter.BusinessLayer.pdb
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Toate/LearningSessions/04. Testing/After/PetShelter/PetShelter.BusinessLayer/obj/Debug/net7.0/ref/PetShelter.BusinessLayer.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.BusinessLayer/bin/Debug/net7.0/PetShelter.BusinessLayer.deps.json
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.BusinessLayer/bin/Debug/net7.0/PetShelter.BusinessLayer.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.BusinessLayer/bin/Debug/net7.0/PetShelter.BusinessLayer.pdb
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.BusinessLayer/bin/Debug/net7.0/PetShelter.DataAccessLayer.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.BusinessLayer/bin/Debug/net7.0/PetShelter.DataAccessLayer.pdb
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.BusinessLayer/obj/Debug/net7.0/PetShelter.BusinessLayer.csproj.AssemblyReference.cache
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.BusinessLayer/obj/Debug/net7.0/PetShelter.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.BusinessLayer/obj/Debug/net7.0/PetShelter.BusinessLayer.AssemblyInfoInputs.cache
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.BusinessLayer/obj/Debug/net7.0/PetShelter.BusinessLayer.AssemblyInfo.cs
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.BusinessLayer/obj/Debug/net7.0/PetShelter.BusinessLayer.csproj.CoreCompileInputs.cache
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.BusinessLayer/obj/Debug/net7.0/PetShelter.BusinessLayer.csproj.CopyComplete
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.BusinessLayer/obj/Debug/net7.0/PetShelter.BusinessLayer.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.BusinessLayer/obj/Debug/net7.0/refint/PetShelter.BusinessLayer.dll
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.BusinessLayer/obj/Debug/net7.0/PetShelter.BusinessLayer.pdb
+/Users/mariatimbur/Documents/Git/Cegeka-Academy-2023/Tema 4 - Testing/PetShelter/PetShelter.BusinessLayer/obj/Debug/net7.0/ref/PetShelter.BusinessLayer.dll
